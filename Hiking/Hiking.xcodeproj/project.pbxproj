@@ -12,6 +12,7 @@
 		3511362A2C71CB6100CC9D49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 351136292C71CB6100CC9D49 /* Assets.xcassets */; };
 		3511362D2C71CB6100CC9D49 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3511362C2C71CB6100CC9D49 /* Preview Assets.xcassets */; };
 		351136352C71CBB300CC9D49 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351136342C71CBB300CC9D49 /* Hike.swift */; };
+		351136372C71D0FF00CC9D49 /* HikeDetailScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351136362C71D0FF00CC9D49 /* HikeDetailScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		351136292C71CB6100CC9D49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3511362C2C71CB6100CC9D49 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		351136342C71CBB300CC9D49 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
+		351136362C71D0FF00CC9D49 /* HikeDetailScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeDetailScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				351136332C71CBAB00CC9D49 /* Models */,
 				351136252C71CB6000CC9D49 /* HikingApp.swift */,
 				351136272C71CB6000CC9D49 /* ContentView.swift */,
+				351136362C71D0FF00CC9D49 /* HikeDetailScreen.swift */,
 				351136292C71CB6100CC9D49 /* Assets.xcassets */,
 				3511362B2C71CB6100CC9D49 /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				351136352C71CBB300CC9D49 /* Hike.swift in Sources */,
+				351136372C71D0FF00CC9D49 /* HikeDetailScreen.swift in Sources */,
 				351136282C71CB6000CC9D49 /* ContentView.swift in Sources */,
 				351136262C71CB6000CC9D49 /* HikingApp.swift in Sources */,
 			);
